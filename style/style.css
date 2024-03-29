@@ -17,15 +17,15 @@ body{
     place-items: center;
 }
 .card>*{
-    margin: 15px 0;
+/*     margin: 15px 0; */
 }
 .card{text-align: center;
-    padding-top: 25px; 
+    padding: 40px; 
     width:385px;
     height: 600px;
     border-radius: 15px;
     background-color: #1f1f1f;
-    color:beige;
+    color:#ffffff;
 }
 
 .center{
@@ -58,6 +58,6 @@ ul>li>button{
     margin:7.5px 0px; 
 }
 ul>li>button:active{
-    background-color: hsl(75, 94%, 57%);;
-    color:#141414
+    background-color: hsl(75, 94%, 57%);
+    color:#141414;
 }
